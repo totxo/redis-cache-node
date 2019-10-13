@@ -1,0 +1,9 @@
+Establish Connection:  	%{time_connect}\n
+TTFB:  			%{time_starttransfer}\n
+
+                    	------------------\n\n
+
+Total:  		%{time_total}\n
+
+
+
